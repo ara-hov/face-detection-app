@@ -1,0 +1,12 @@
+.Tilt {
+  width: 130px;
+  height: 130px;
+
+  .Tilt-inner {
+    background-image: linear-gradient(0deg, #ff8a00, #d68b1b);
+    cursor: pointer;
+    img {
+      width: 90px;
+    }
+  }
+}

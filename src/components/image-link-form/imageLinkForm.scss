@@ -1,0 +1,17 @@
+.imageLinkForm {
+  .form {
+    width: 700px;
+    background: radial-gradient(circle at bottom center, #ffc837 15px, #ff8008);
+    box-shadow: 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+    input {
+      outline: 0;
+      border: 0;
+    }
+
+    .detect {
+      outline: 0;
+      border: 0;
+      cursor: pointer;
+    }
+  }
+}
